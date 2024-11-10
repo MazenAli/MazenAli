@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-I am a senior engineer at Multiverse Computing, Spain.
-I currently develop algorithmic+software solutions for problems in finance and material simulation.
+I am generalist who likes to develop computational solutions
+for all kinds of problems.
 Checkout my [personal page](https://mazenali.github.io/).
